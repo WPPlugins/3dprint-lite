@@ -1,0 +1,21 @@
+.p3dlite-expand {
+	width:60%;
+	display:inline;
+	float:left;
+}
+.p3dlite-remove-button.button-secondary, .p3dlite-clone-button.button-secondary {
+	display:inline;
+	float:left;
+	margin-left:10px;
+	height:35px;
+}
+div.group-color-sample {
+	cursor: pointer;
+	display: inline-block;
+	height: 22px;
+	vertical-align: middle;
+	width: 22px;
+}
+.p3dlite-advanced {
+	display:none;
+}
